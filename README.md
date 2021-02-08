@@ -1,6 +1,9 @@
 ## Overview
 
-The following REST API is the server-side of an application which purpose is providing shopping assistance. There are two types of users: clients and store administrators. Besides account management, this app helps store administrators to manage their stores and provides store suggestions for clients, based on their shopping list content, geographical coordinates, straight line distance (km) and date-time. An MS SQL server database was employed for data storage.
+The following REST API is the server-side of an application which purpose is providing shopping assistance. There are two types of users: clients and store administrators. Besides account management, this app helps store administrators to manage their stores and provides store suggestions for clients, based on their shopping list content, geographical coordinates, straight line distance (km) and date-time. 
+An MS SQL server database was employed for data storage (see the following diagram).
+
+![](imgs/database_diagram.jpg)
 
 ### Http Requests
 
