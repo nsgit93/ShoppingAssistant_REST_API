@@ -198,5 +198,5 @@ Response:
  ]
 ```
 
-### Remarks
+### Acknowledgements
 > As a source of inspiration for the user management functionalities (registration, authentication, password update) I have used https://jasonwatmore.com/post/2019/10/14/aspnet-core-3-simple-api-for-authentication-registration-and-user-management.
